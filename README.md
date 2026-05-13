@@ -1,5 +1,5 @@
 General Explanation of the App
-Your Shoe Inventory Management System follows a modern Three-Tier Architecture:
+my Shoe Inventory Management System follows a modern Three-Tier Architecture:
 
 The Presentation Tier (JavaFX): A GUI that allows users to interact with the inventory, add shoes, and generate SKUs.
 
@@ -12,7 +12,7 @@ The Data Tier (PostgreSQL): A persistent database running in its own container t
 
 This project follows the **Maven Standard Directory Layout** and is containerized using **Docker**.
 
-```text
+
 inventry-shoe-managment/
 ├── .github/
 │   └── workflows/
