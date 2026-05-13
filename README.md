@@ -1,3 +1,17 @@
+NAME DANIEL TEKLE 
+ID   UGR/187996/16
+SECTION 1
+COURSE SOFTWARE ARCHITECTURE AND DESIHN
+DEPARTMENT SOFTWARE ENGINNERING
+
+
+
+
+
+
+
+
+
 General Explanation of the App
 my Shoe Inventory Management System follows a modern Three-Tier Architecture:
 
